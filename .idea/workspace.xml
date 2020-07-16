@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f6452efd-13c9-478d-841c-b4b5a728c880" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/A.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index.py" afterPath="$PROJECT_DIR$/number_of_nodes_typical_channels.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index3.py" afterPath="$PROJECT_DIR$/different_algorithms_versus_sigma.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/plot-noisy-sub-urban.py" afterPath="$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/plot-noisy-urban.py" afterPath="$PROJECT_DIR$/plot_different_sigma_urban_MIN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/plot-sub-urban.py" afterPath="$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/plot-urban.py" afterPath="$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,11 +31,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="different_algorithms_versus_sigma.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="plot_different_sigma_urban_MIN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot_different_sigma_urban_MIN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="38" column="97" lean-forward="false" selection-start-line="38" selection-start-column="97" selection-end-line="38" selection-end-column="116" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plot_different_sigma_sub_urban_MIN.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="plot_number_of_nodes_sub_urban_MIN.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="210" column="22" lean-forward="false" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="different_algorithms_versus_sigma.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/different_algorithms_versus_sigma.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+            <state relative-caret-position="323">
+              <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -260,7 +290,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="99" />
@@ -274,14 +304,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3349">
           <caret line="197" column="60" lean-forward="false" selection-start-line="197" selection-start-column="51" selection-end-line="197" selection-end-column="60" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3315">
           <caret line="195" column="43" lean-forward="false" selection-start-line="195" selection-start-column="43" selection-end-line="195" selection-end-column="43" />
@@ -296,7 +326,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="8" selection-end-column="99" />
@@ -310,7 +340,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3315">
           <caret line="195" column="43" lean-forward="false" selection-start-line="195" selection-start-column="43" selection-end-line="195" selection-end-column="43" />
@@ -318,7 +348,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3349">
           <caret line="197" column="60" lean-forward="false" selection-start-line="197" selection-start-column="51" selection-end-line="197" selection-end-column="60" />
@@ -332,7 +362,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1819">
           <caret line="107" column="0" lean-forward="true" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
@@ -346,14 +376,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3485">
           <caret line="205" column="50" lean-forward="false" selection-start-line="205" selection-start-column="50" selection-end-line="205" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3315">
           <caret line="195" column="43" lean-forward="false" selection-start-line="195" selection-start-column="43" selection-end-line="195" selection-end-column="43" />
@@ -375,14 +405,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3145">
           <caret line="185" column="0" lean-forward="false" selection-start-line="185" selection-start-column="0" selection-end-line="208" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3434">
           <caret line="202" column="11" lean-forward="true" selection-start-line="202" selection-start-column="11" selection-end-line="202" selection-end-column="32" />
@@ -390,7 +420,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1530">
           <caret line="90" column="20" lean-forward="true" selection-start-line="90" selection-start-column="20" selection-end-line="90" selection-end-column="20" />
@@ -404,7 +434,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1513">
           <caret line="89" column="6" lean-forward="false" selection-start-line="89" selection-start-column="6" selection-end-line="89" selection-end-column="6" />
@@ -418,7 +448,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2805">
           <caret line="165" column="52" lean-forward="true" selection-start-line="165" selection-start-column="52" selection-end-line="165" selection-end-column="52" />
@@ -439,7 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3434">
           <caret line="202" column="0" lean-forward="false" selection-start-line="202" selection-start-column="0" selection-end-line="204" selection-end-column="31" />
@@ -447,14 +477,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1819">
           <caret line="107" column="10" lean-forward="true" selection-start-line="107" selection-start-column="10" selection-end-line="107" selection-end-column="10" />
@@ -468,7 +498,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
@@ -482,14 +512,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="33" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="true" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
@@ -504,14 +534,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="58" lean-forward="true" selection-start-line="32" selection-start-column="58" selection-end-line="32" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
@@ -561,25 +591,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-sub-urban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2017">
-          <caret line="210" column="22" lean-forward="true" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plot-urban.py">
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2537">
           <caret line="181" column="55" lean-forward="false" selection-start-line="181" selection-start-column="54" selection-end-line="181" selection-end-column="55" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-urban.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="97" lean-forward="false" selection-start-line="38" selection-start-column="97" selection-end-line="38" selection-end-column="116" />
           <folding />
         </state>
       </provider>
@@ -608,18 +623,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/plot-noisy-sub-urban.py">
+    <entry file="file://$PROJECT_DIR$/different_algorithms_versus_sigma.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2091">
-          <caret line="126" column="0" lean-forward="true" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+        <state relative-caret-position="323">
+          <caret line="19" column="21" lean-forward="true" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/different_algorithms_versus_sigma.py">
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_urban_MIN.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="26" lean-forward="false" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        <state relative-caret-position="425">
+          <caret line="38" column="97" lean-forward="false" selection-start-line="38" selection-start-column="97" selection-end-line="38" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_different_sigma_sub_urban_MIN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="126" column="0" lean-forward="false" selection-start-line="126" selection-start-column="0" selection-end-line="126" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plot_number_of_nodes_sub_urban_MIN.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="210" column="22" lean-forward="false" selection-start-line="210" selection-start-column="22" selection-end-line="210" selection-end-column="22" />
           <folding />
         </state>
       </provider>
