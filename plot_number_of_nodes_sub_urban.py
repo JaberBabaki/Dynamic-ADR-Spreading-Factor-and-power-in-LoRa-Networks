@@ -212,17 +212,17 @@ plt.xticks(p,**number)
 plt.yticks(**number)
 
 
-plt.plot(p, sub7Energy_AVG,'s',markersize=6, color='blue', linewidth=1.5,
+plt.plot(p, sub7Delevry_AVG,'s',markersize=6, color='blue', linewidth=1.5,
          markerfacecolor='blue',linestyle='-',label='ADR-AVG[13]')
-plt.plot(p, sub7Energy_MAX,'o',markersize=6, color='green',linewidth=1.5,
+plt.plot(p, sub7Delevry_MAX,'o',markersize=6, color='green',linewidth=1.5,
          linestyle='-',markerfacecolor='green',label='ADR-MAX[9]')
-plt.plot(p, sub7Energy_NoADR,'^',markersize=6, color='black',linewidth=1.5,
+plt.plot(p, sub7Delevry_NoADR,'^',markersize=6, color='black',linewidth=1.5,
          linestyle='-',markerfacecolor='black',label='ADR-NoADR')
-plt.plot(p, sub7Energy_MIN,'x',markersize=6,  color='red',linewidth=1.5,
+plt.plot(p, sub7Delevry_PES,'x',markersize=6,  color='red',linewidth=1.5,
          linestyle='-',markerfacecolor='red',label='ADR-MIN')
 
 plt.legend(prop={'family': 'Times New Roman'})
 plt.xlabel("Number of nodes",**title_font)
-plt.ylabel("Energy Consumption (mJ)",**title_font)
+plt.ylabel("Packet Delivery Ratio (%)",**title_font)
 plt.show()
 
