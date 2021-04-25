@@ -22,7 +22,7 @@ for j in range(len(dir2)):
     print("------\n")
     avDelivery = []
     avEnergy = []
-    for f in dir3:  # inside folder 30 ta
+    for f in dir3:  # inside folder 30simulates
         g = open(pathRoot5 + '\\' + f)
         listOfLines = g.readlines()
         v = str(f).split('#')
